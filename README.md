@@ -18,5 +18,5 @@
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- 가장 많이 사용하는 언어 (Compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimin2&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
