@@ -28,8 +28,3 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-
-<br/>
-
-<!-- 가장 많이 사용하는 언어 (Compact) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimin2&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
